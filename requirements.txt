@@ -1,0 +1,8 @@
+# Requirements for Tremor Analysis
+
+# Add your project dependencies here
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
